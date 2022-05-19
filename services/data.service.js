@@ -192,7 +192,7 @@ const deleteAcc = (acno) => {
                 }
             }
         })
-} 
+}
 
 module.exports = {
     register,
